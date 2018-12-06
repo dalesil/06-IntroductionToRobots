@@ -2,11 +2,11 @@
 An opportunity to explore how to make an EV3 Robot move.
 
 Authors: Dave Fisher, David Mutchler, Vibha Alangar,
-their colleagues, and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+their colleagues, and Lucas D'Alesio.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # -----------------------------------------------------------------------------
-# TODO: 2.
+# DONE: 2.
 #   Follow along with the lecture to run this program:
 #    - Using SSH from your computer
 #   When you have successfully run this program, change this _TODO_ to DONE.
@@ -22,7 +22,7 @@ def main():
 
 def go_two_seconds():
     # -------------------------------------------------------------------------
-    # TODO: 3.
+    # DONE: 3.
     #   Make the robot move, by using this pattern:
     #    - Turn on (start) the wheel motors.
     #    - time.sleep(2)  # Pause here, let other processes run for 2 seconds
